@@ -1,7 +1,8 @@
-# Simple Tailwind CSS Starter
+# Login Page
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is an Login Page which asks for user input and also let user choose option of Facebook and Google for login build for learning tailwind by practice
 
+### https://login-page-wine-seven.vercel.app/
 ## Usage
 
 Install dependencies
